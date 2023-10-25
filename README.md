@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laijunji
-- 👀 I’m a data engineer working at fintopia
+- 👀 I’m a data engineer working at meituan
 - 🌱 I’m currently learning flink
 - 📫 u can reach me by email 945700840@qq.com
 
